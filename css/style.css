@@ -1,0 +1,171 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;500&display=swap');
+/* Close Font */
+.Menu{
+    /* For Fixed site */
+    position: fixed;
+    /* for width height */
+    width: 100%;
+    height: 50px;
+    /* For color in line */
+    background-color: black;
+}
+*{
+    /* For optizmate site */
+    margin: 0;
+    padding: 0;
+    /* close For optizmate site */
+}
+.Logo{
+    /* Logo position */
+    position: relative;
+    left: 10px;
+    /* Close Logo position */
+}
+.Text-For-Logo{
+    /* Postion For */
+position: absolute;
+/* Color text */
+color: gray;
+/* postion */
+left: 57px;
+top: 7px;
+/* Font */
+font-family: 'Oswald', sans-serif;
+}
+.H2-Menu-style-css{
+    /* Postion cursor */
+    position: absolute;
+    /* Color text */
+    color: gray;
+}
+.H2-1-Menu-css-style-all{
+    /* Postion */
+    position: absolute;
+    /* Postion cursor */
+    left: 670px;
+    top: 12px;
+    /* Font */
+    font-family: 'Montserrat', sans-serif;
+    /* Height font */
+    font-size: 20px;
+    /* Line withe */
+    border-bottom: 1px solid white ;
+}
+.H2-2-Menu-css-style-all{
+    /* Postion */
+    position: absolute;
+    /* Postion cursor */
+    left: 770px;
+    top: 12px;
+    /* Font */
+    font-family: 'Montserrat', sans-serif;
+    /* Height font */
+    font-size: 20px;
+}
+.H2-3-Menu-css-style-all{
+    /* Postion */
+    position: absolute;
+    /* Postion cursor */
+    left: 870px;
+    top: 12px;
+    /* Font */
+    font-family: 'Montserrat', sans-serif;
+    /* Height font */
+    font-size: 20px;
+}
+.H2-4-Menu-css-style-all{
+    /* Postion */
+    position: absolute;
+    /* Postion cursor */
+    left: 1000px;
+    top: 12px;
+    /* Font */
+    font-family: 'Montserrat', sans-serif;
+    /* Height font */
+    font-size: 20px;
+}
+a{
+    /* Not Line in a */
+    text-decoration: none;
+}
+.Login-text-css-style{
+    /* Postion */
+    position: absolute;
+    /* Color */
+    color: white;
+    /* Postion cursor */
+    right: 70px;
+    top: 13px;
+    /* Font */
+    font-family: 'Montserrat', sans-serif;
+    /* Height font */
+    font-size: 14px;
+}
+.H2-1-Menu-css-style-all:hover{
+    border-bottom: 1px solid white ;
+}
+.H2-2-Menu-css-style-all:hover{
+    border-bottom: 1px solid white ;
+}
+.menulines{
+    color: white;
+   top:1px;
+    position: absolute;
+    right: -35px;
+    font-size: 30px; cursor: pointer; margin-right: 50px;
+}
+.sidenavbar{
+    height: 100%; width: 0; position: fixed; top: 0; right: 0; z-index: 1; background:  #1f1f1f ;
+transition: 1.15s; border-radius: 10px;
+}
+.closebutton{
+    font-size: 35px;
+    text-decoration: none;
+    color: white;
+}
+.style-css-h2-1-color-full{
+    position: relative;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    top: 100px;
+}
+body{
+    background: black;
+}
+.CloseMenu{
+    position: absolute;
+    color: white;
+    right: 20px;
+    top: 4px;
+    font-size: 30px;
+
+}
+.Outside-the-Menu{
+    top: 100px;
+    color: white;
+}
+.H2-1-Menu-css-style-all-1{
+    position: absolute;
+    top: 25%;
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+    left: 20px;
+}
+.All-in-p-in-site-for-project{
+    position: relative;
+    width: 56vh;
+    top: 20pc;
+    left: 20px;
+    font-size: 20px;
+    color: gray;
+    
+}
+.Logo-all{
+    display: flex;
+    position: absolute;
+    top: 9pc;
+    right: 10vh;
+}
